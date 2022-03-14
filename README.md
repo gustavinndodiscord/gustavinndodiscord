@@ -1,4 +1,4 @@
-### Hi there 👋, Gustavo
+### Olá meu nome é 👋, Gustavo
 #### Sou um pequeno programador jovem
 ![Sou um pequeno programador jovem](https://media.discordapp.net/attachments/950859475504496694/952956794131595364/zyro-image.png?width=768&height=432)
 
@@ -6,8 +6,8 @@ Tenho grandes projetos em mente
 
 Skills: JavaScript / HTML / CSS / Python
 
-- 🔭 I’m currently working on Kayo Web 
-- 🌱 I’m currently learning React.js 
+- 🔭 Estou trabalhando no Kayo Web 
+- 🌱 Estou aprendendo React.js 
 - 👯 I’m looking to collaborate on Sites, robôs, IA 
 
 
