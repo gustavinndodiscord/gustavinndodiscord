@@ -1,23 +1,34 @@
-### Olá meu nome é 👋, Gustavo
-#### Sou um pequeno programador jovem
-![Sou um pequeno programador jovem](https://media.discordapp.net/attachments/950859475504496694/952956794131595364/zyro-image.png?width=768&height=432)
+<h1 align="center" style="font-size: 80px">Gustavo.js</h1>
 
-Tenho grandes projetos em mente
+<div align="center">
+  <a href="https://github.com/uVictorX">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavorochabr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorochabr&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-Skills: JavaScript / HTML / CSS / Python
+##
+  
+<div align="center" style="display: inline_block; margin: auto;"><br>
+  <h3>Tecnologias que uso em meus projetos:</h3>
+  <img align="center" alt="Gustavo.js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="Gustavo.py" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+  <img align="center" alt="Gustavo.html" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-- 🔭 Estou trabalhando no Kayo Web 
-- 🌱 Estou aprendendo React.js 
-- 👯 I’m looking to collaborate on Sites, robôs, IA 
+  <img align="center" alt="Gustavo.css" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+
+</div>
+
+##
+  
+<div align="center" style="display: inline-block"> 
+  <h3>Encontre-me:</h3>
+ <a href="https://instagram.com/gustavorocha_br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="4gesports123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gustavorochabr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Gustavo_Barros)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/gustavorocha_br/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorochabr)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavorochabr&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gustavorochabr)  
 
 
 
