@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 80px">Gustavo.js</h1>
 
 <div align="center">
-  <a href="https://github.com/uVictorX">
+  <a href="https://github.com/gustavorochabr">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavorochabr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorochabr&layout=compact&langs_count=7&theme=dark"/>
 </div>
