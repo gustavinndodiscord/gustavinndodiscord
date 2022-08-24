@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 80px">Gustavo.js</h1>
+<h1 align="center" style="font-size: 80px">Guxtavo.</h1>
 
 <div align="center">
   <a href="https://github.com/gustavorochabr">
