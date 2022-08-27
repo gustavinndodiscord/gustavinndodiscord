@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 80px">Guxtavo.</h1>
 
 <div align="center">
-  <a href="https://github.com/gustavorochabr">
+  <a href="https://github.com/guxtavodev">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavorochabr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorochabr&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -25,7 +25,7 @@
   
 <div align="center" style="display: inline-block"> 
   <h3>Encontre-me:</h3>
- <a href="https://instagram.com/gustavorocha_br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="4gesports123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/gustavorocha_br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="guxtavodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 
