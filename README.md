@@ -17,5 +17,5 @@ Estou cursando Suporte T.I. no momento, já sei várias linguagens de programaç
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-[![Gmail Badge](https://img.shields.io/badge/guxtavodev@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guxtavodev@gmail.com)](mailto:guxtavodev@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/guxtavodev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guxtavodev@gmail.com)](mailto:guxtavodev@gmail.com) 
 [![GitHub Guxtavo](https://img.shields.io/github/followers/Guxtavo.?label=follow&style=social)](https://github.com/guxtavodev)
