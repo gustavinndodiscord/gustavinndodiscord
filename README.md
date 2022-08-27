@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/guxtavodev">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavorochabr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorochabr&layout=compact&langs_count=7&theme=dark"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guxtavodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxtavodev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
