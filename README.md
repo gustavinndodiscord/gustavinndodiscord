@@ -10,4 +10,4 @@ Estou cursando Suporte T.I. no momento, já sei várias linguagens de programaç
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/guxtavodev ) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gustavorocha_br/)
 
-https://badgen.net/https/some-endpoint.example.com/bitcoin
+![](https://discord-md-badge.vercel.app/api/shield/923713911734300673)
