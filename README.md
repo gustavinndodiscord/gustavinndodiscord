@@ -1,34 +1,11 @@
-<h1 align="center" style="font-size: 80px">Guxtavo.</h1>
+<img src="https://media.discordapp.net/attachments/1010989706323959851/1013054996910194790/zyro-image.png"> 
 
-<div align="center">
-  <a href="https://github.com/guxtavodev">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guxtavodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxtavodev&layout=compact&langs_count=7&theme=dark"/>
-</div>
+### Olá 👋 
+Estou cursando Suporte T.I. no momento, já sei várias linguagens de programação por exemplo: Python, HTML, CSS, JavaScript, sei também um pouco de Node.js
+- 🔭 Atualmente estou sem projetos sendo desenvolvidos.
+- 🌱 Atualmente estou aprendendo Ciência de Dados com Python.
+- 🤝 Estou procurando colaborar em projetos de sites, e programas.
 
-##
-  
-<div align="center" style="display: inline_block; margin: auto;"><br>
-  <h3>Tecnologias que uso em meus projetos:</h3>
-  <img align="center" alt="Gustavo.js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="Gustavo.py" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  <img align="center" alt="Gustavo.html" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+![Guxtavo.](https://github-readme-stats.vercel.app/api?username=guxtavodev)
 
-  <img align="center" alt="Gustavo.css" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-
-</div>
-
-##
-  
-<div align="center" style="display: inline-block"> 
-  <h3>Encontre-me:</h3>
- <a href="https://instagram.com/gustavorocha_br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="guxtavodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-
-
-
-
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/guxtavodev ) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https: //www.instagram.com/gustavorocha_br/)
