@@ -21,9 +21,16 @@ class Guxtavo:
 ```
 
 <p align="left">
+  <a href="#" alt="TikTok">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="#" alt="Outlook">
+    <img src="https://img.shields.io/badge/Microsoft Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=guxtavodev@gmail.com" /></a>
-
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/guxtavodev"/></a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>  
