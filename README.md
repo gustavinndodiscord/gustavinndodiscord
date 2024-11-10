@@ -1,36 +1,38 @@
-```py
-class Guxtavo:
-  def info():
-    nome = "Gustavo Rocha"
-    idade = 15y
-    tempoNaProgramação = 2 anos
-    descrição = """
-      Sou um cara que faz de tudo para entregar o melhor projeto, sou persistente e sou confiante, não desisto nunca, 
-      e sei liderar uma equipe
-    """
-  
-  def habilidades():
-    linguagens = [
-      "Python",
-      "JavaScript",
-      "Golang",
-      "Node.js"
-    ]
-    função = "Web Developer Full-Stack"
-    tempoMedioParaEntregaDeProjeto = 2 dias
-```
+# Gustavo - Desenvolvedor de Soluções em IA e SaaS
 
-<p align="left">
-  <a href="https://tiktok.com/@guxtavodev" alt="TikTok">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-  <a href="email:guxtavodev@outlook.pt" alt="Outlook">
-    <img src="https://img.shields.io/badge/Microsoft Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a href="email:guxtavodev@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/guxtavodev" alt="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>  
+👋 Olá! Sou o Gustavo, desenvolvedor com foco em Inteligência Artificial e SaaS, apaixonado por criar soluções que otimizam o tempo e melhoram a experiência dos usuários. Estou sempre em busca de inovação e eficiência nos meus projetos.
+
+---
+
+## 🛠 Projetos Atuais
+
+### [LearnLoop](https://learnloop.com.br) 📘  
+Plataforma de estudos voltada para o ENEM e Encceja, oferecendo:
+- **Corretor de redações** com opção de nível de ensino.
+- **Gerenciador de sessões de estudo** e **feed de artigos**.
+- **Mostra Virtual FECIBA** para que estudantes publiquem seus projetos.
+
+### SaaS para Freelancers 💼 (Em desenvolvimento)  
+Plataforma de gestão que oferece:
+- **Dashboard financeiro**, controle de clientes e projetos.
+- **Calculadora de precificação** e notificações de tarefas pendentes.
+- **Wiki** para o cliente acompanhar o progresso e cronograma.
+
+### Aplicativo de Treinamento Físico 💪 (Em desenvolvimento)  
+App para personal trainers e academias, com funcionalidades como:
+- **Perfis personalizados** para alunos, histórico de treinos e agendamentos.
+- **Feed** para compartilhamento de demandas e desempenho de membros.
+
+---
+
+## 🚀 Tecnologias
+
+- **Linguagens**: Python, JavaScript
+- **Frameworks**: Flask, Django, Next.js
+- **Outros**: Inteligência Artificial, Desenvolvimento Web
+
+---
+
+## 🌐 Conecte-se comigo!
+
+[Instagram](https://instagram.com/gustavorocha_br) | [LinkedIn](https://www.linkedin.com/in/gustavo-rocha-62907225b/)
